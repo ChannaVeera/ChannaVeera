@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/Xcq3ByejsfBzu6WT2L/giphy.gif" width="200"/>
   <div id="badges">
-  <a href="your-linkedin-URL">
+  <a href="https://www.linkedin.com/in/nk-channa-096a761b0">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 <!--   <a href="your-twitter-URL">
